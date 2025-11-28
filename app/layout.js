@@ -1,4 +1,5 @@
-import './globals.css';
+import '../style../styles/globals.css';
+
 
 export const metadata = {
   title: 'Монгол цаг агаар',
